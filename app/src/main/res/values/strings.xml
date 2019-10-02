@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Caravanas</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act_cad_excursao">ActCadExcursao</string>
+</resources>
